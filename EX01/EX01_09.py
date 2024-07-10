@@ -1,0 +1,1 @@
+print("The area of the rectangle is ", (4.5 * 7.9))

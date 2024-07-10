@@ -1,0 +1,1 @@
+print("The average speed is ", ((45.5 / 60) / (14 / 1.6)), " miles per hour")
