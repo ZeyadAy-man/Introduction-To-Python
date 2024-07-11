@@ -1,8 +1,6 @@
+numberOfYears = eval(input("Enter the number of years: "))
 print("The population after 1 year ", int(312032486 - ((365 * 24 * 60 * 60) / (13)) + ((365 * 24 * 60 * 60) / (45)) + ((365 * 24 * 60 * 60) / (7))))
 print("The population after 2 year ", int(314812582 - ((365 * 24 * 60 * 60) / (13)) + ((365 * 24 * 60 * 60) / (45)) + ((365 * 24 * 60 * 60) / (7))))
 print("The population after 3 year ", int(317592678 - ((365 * 24 * 60 * 60) / (13)) + ((365 * 24 * 60 * 60) / (45)) + ((365 * 24 * 60 * 60) / (7))))
 print("The population after 4 year ", int(320372774 - ((365 * 24 * 60 * 60) / (13)) + ((365 * 24 * 60 * 60) / (45)) + ((365 * 24 * 60 * 60) / (7))))
 print("The population after 5 year ", int(323152870 - ((365 * 24 * 60 * 60) / (13)) + ((365 * 24 * 60 * 60) / (45)) + ((365 * 24 * 60 * 60) / (7))))
-
-
-
